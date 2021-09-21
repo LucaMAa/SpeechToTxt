@@ -1,0 +1,10 @@
+C:\Users\Luca\Desktop\speechtotext\speechtotext\bin\Debug\speechtotext.exe.config
+C:\Users\Luca\Desktop\speechtotext\speechtotext\bin\Debug\speechtotext.exe
+C:\Users\Luca\Desktop\speechtotext\speechtotext\bin\Debug\speechtotext.pdb
+C:\Users\Luca\Desktop\speechtotext\speechtotext\obj\Debug\speechtotext.csprojAssemblyReference.cache
+C:\Users\Luca\Desktop\speechtotext\speechtotext\obj\Debug\speechtotext.Form1.resources
+C:\Users\Luca\Desktop\speechtotext\speechtotext\obj\Debug\speechtotext.Properties.Resources.resources
+C:\Users\Luca\Desktop\speechtotext\speechtotext\obj\Debug\speechtotext.csproj.GenerateResource.cache
+C:\Users\Luca\Desktop\speechtotext\speechtotext\obj\Debug\speechtotext.exe
+C:\Users\Luca\Desktop\speechtotext\speechtotext\obj\Debug\speechtotext.pdb
+C:\Users\Luca\Desktop\speechtotext\speechtotext\obj\Debug\speechtotext.csproj.CoreCompileInputs.cache
